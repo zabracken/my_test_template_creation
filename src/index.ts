@@ -11,7 +11,7 @@ export class MyMCP extends McpAgent {
 
 	async init() {
 		// Where all the tool definitions go. 
-        {testy}
+        Adjust the tools
 	}
 }
 
